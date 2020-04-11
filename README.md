@@ -1,17 +1,16 @@
-# Project Name
+# TutorMe
 
-Introduction - a brief summary of the general problem being studied and addressed
+Introduction - Need to find a Tutor? TutorMe will find you a tutor based on major and classes you are currently taking.
 
 ## Team Members
 
-* **Full Name 1** - Summary of contributions
-* **Full Name 2** - Summary of contributions
+* **Jozzel Esqueda** - Summary of contributions
+* **Peter Menzies** - Summary of contributions
 
 ## Phase 1: User Inquiry and Inspection
 
-* Executive Summary of methods,
-* data gathered,
-* and most important outcomes
+* Google Survey
+* Users want a quick and effecient way of finding a tutor
 
 [Full phase 1 report](phase1/)
 
